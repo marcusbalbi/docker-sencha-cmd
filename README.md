@@ -4,12 +4,12 @@
 
 This image is based of [Java 8 JRE Image](https://hub.docker.com/_/java/)
 
-* Sencha CMD 6.1
+* Sencha CMD 6.7
 * Ruby 2.1
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`6.1.3.42`, `latest`](https://github.com/herloct/docker-sencha-cmd/blob/master/6.1.3.42/Dockerfile)
+* [`6.7.0.63`, `latest`](https://github.com/herloct/docker-sencha-cmd/blob/master/6.1.3.42/Dockerfile)
 
 ## How to use this image
 
