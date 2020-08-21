@@ -1,5 +1,8 @@
 FROM openjdk:8u265-jre
 
+LABEL maintainer="herloct@gmail.com"
+LABEL maintainer2="balbimarcus@gmail.com"
+
 RUN apt-get update && \
     apt-get install -y \
     curl \
